@@ -27,3 +27,4 @@ nextN = head.getNextNode()
 for i in range(10):
     print str(nextN.getData()) + "\n"
     nextN = nextN.getNextNode()
+
